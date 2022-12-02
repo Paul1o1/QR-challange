@@ -1,0 +1,39 @@
+
+body{
+  background-color:hsl(212, 45%, 89%);
+
+}
+.QR{
+  width:  92%;
+  display: block;
+border-radius: 5%;
+
+  margin: auto;
+
+}
+.outer{
+background-color: hsl(0, 0%, 100%);
+width: 25%;
+height: 100%;
+padding-top: 15px;
+padding-bottom: 30px;
+border-radius: 5%;
+
+
+  margin:100px auto;
+}
+h2{
+  text-align:center;
+  width: 85%;
+  font-style: "Roboto";
+  font-weight:800;
+
+  margin: 20px auto;
+}
+p{
+  text-align: center;
+  width: 85%;
+  margin: 20px auto;
+  color: grey;
+  font-size: 20px;
+}
